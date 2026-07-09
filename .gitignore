@@ -1,5 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual Environment
+venv/
+.venv/
+env/
+
+# Streamlit
+.streamlit/
+
+# Temporary cloned repositories
 repo/
 repo_*/
-__pycache__/
-*.pyc
+
+# Generated reports
 analysis_report.pdf
+
+# IDE
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
